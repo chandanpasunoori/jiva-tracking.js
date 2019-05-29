@@ -1,0 +1,8 @@
+*.log
+.DS_Store
+bower_components
+node_modules
+test/unit/build/*
+.awspublish-jiva-js
+dist/
+.idea/

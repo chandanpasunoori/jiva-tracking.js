@@ -1,0 +1,36 @@
+{
+  "name": "jiva-tracking",
+  "main": "dist/jiva-tracking.js",
+  "homepage": "https://github.com/etsrepo/jiva-tracking.js.git",
+  "license": "MIT",
+  "keywords": [
+    "analytics",
+    "metrics",
+    "tracking",
+    "logging",
+    "stats",
+    "pageviews",
+    "jiva",
+    "jiva.io",
+    "jiva-io"
+  ],
+  "ignore": [
+    "**/.*",
+    "gulpfile.js",
+    "karma.conf.js",
+    ".travis.yml",
+    ".gitignore",
+    ".npmignore",
+    "docs",
+    "lib",
+    "node_modules",
+    "test",
+    "bower_components"
+  ],
+  "description": "Data Collection SDK for Jiva IO",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ]
+}
